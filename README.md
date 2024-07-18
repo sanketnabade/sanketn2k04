@@ -29,7 +29,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketn2k04&" alt="sanketn2k04" /></p>
 
 
+<h2 align="center">Happy coding {;}</h2>
+
+
 <!---
 sanketn2k04/sanketn2k04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes..
+You can click the Preview link to take a look at your changes.
 --->
