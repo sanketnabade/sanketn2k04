@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer</h3>
 <img align="right" width="400px" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" alt="coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketn2k04&label=Profile%20views&color=0e75b6&style=flat" alt="sanketn2k04" /> </p>
+
 
 - 🔭 I’m currently working on **video-streaming-platform**
 
