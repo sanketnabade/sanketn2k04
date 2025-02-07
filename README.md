@@ -2,11 +2,7 @@
 <h3 align="center">A passionate full-stack developer</h3>
 
 
-- 🔭 I’m currently working on **video-streaming-platform**
-
-- 💬 Ask me about **Full Stack Web-Dev**
-
-- 📫 How to reach me **sanketnabade2004@gmail.com**
+I’m currently working on **video-streaming-platform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
