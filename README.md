@@ -1,15 +1,13 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]()
 <h1 align="center">Hi 👋, I'm Sanket Nabade</h1>
-<h3 align="center">A passionate MERN developer</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 <img align="right" width="400px" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketn2k04&label=Profile%20views&color=0e75b6&style=flat" alt="sanketn2k04" /> </p>
 
-- 🔭 I’m currently working on **Yelp-Camp**
+- 🔭 I’m currently working on **video-streaming-platform**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Full Stack Web-Dev**
 
 - 📫 How to reach me **sanketnabade2004@gmail.com**
 
