@@ -1,8 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]()
 <h1 align="center">Hi 👋, I'm Sanket Nabade</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img align="right" width="400px" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" alt="coding">
-
 
 
 - 🔭 I’m currently working on **video-streaming-platform**
